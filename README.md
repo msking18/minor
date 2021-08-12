@@ -13,7 +13,7 @@ The motivation for this project was to establish a platform where students could
   <li>New Users can register and then subsequently login to their account.</li>
   <br><br>
   
-  ![](images/Login.png)
+  ![](images/Login.jpg)
 
 <br><br>
 
@@ -64,10 +64,17 @@ The motivation for this project was to establish a platform where students could
 
 <br><br>
 
-![](images/QA.png)
+![](images/Query.jpg)
 
 <br><br>
+  
+<li>A Sample Question.</li>
+  
+<br><br>  
+ 
+![](images/Query.jpg)  
 
+<br><br>    
 </ul>
 
 ## Under Development
