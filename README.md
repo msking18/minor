@@ -75,7 +75,13 @@ The motivation for this project was to establish a platform where students could
 ![](images/Sample.jpg)  
 
 <br><br>
-  <li>In addition we have features like -</li>
+</ul>
+
+
+  
+  ## Additional Features
+ <ul>
+  
   <li>Threaded comments in answer detail</li>
   <li>TinyMce WYSIWYG editor for question and asnwer editing</li>
   <li>Search facility for searching questions</li>
