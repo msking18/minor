@@ -2,11 +2,10 @@
 
 ## Introduction
 
-Hello everyone, my name is Rohit and I am a third year CS student. This is the repository of my 6th sem
-minor project which is a college social network. The web app's backend is written completely in django with
-a little bit of Ajax for asynchronous works. In the development of this application I am applying the skills
-of OOP and RDBMS that i learned in my previous semesters. Also I am learning new skills like Django, Ajax, SQLite, etc to complement my theoretical knowledge. <br>
-The motivation for this project is to put up the complete social aspect of my college on the Internet, something which Facebook was initially developed to acheive but failed to do so. I am trying to create a safe refuge for already stressed college students to share their everyday struggles, acheivements, happiness, etc, on a social network without being Guinea pigs for AI algorithms milking them for their attention.
+Hello everyone, my name is Manveer Singh Kahlon. This is the repository of my 6th sem
+minor project which I worked on with my teammate Rohit. The web app's backend is written completely in django with
+a little bit of Ajax for asynchronous works. I had no knowledge of web development prior to working on this project and thus it worked as a learing experience for me. I learned about web development from scratch using django through a short tutorial and the rest was just learning on the way to developing this website. <br>
+The motivation for this project was to establish a platform where students could house their question and queries and get answers for the same. There doesnt seem to be a repository for storing past questions that students may have had, hence this will allow for a forum where students can learn from each other.<br> This constitues the Query part of the website which I developed as well as a face login authentication system as part of a two-factor login. My teammate developed the social media aspects of the webiste as part of his motivation for the project. 
 
 ## Features
 
@@ -74,12 +73,8 @@ The motivation for this project is to put up the complete social aspect of my co
 ## Under Development
 
 <ul>
-  <li>Two factor face recognition system (Just change the view in minor/urls.py).</li>
   <li>Direct messaging between the users.</li>
-  <li>A search bar to search users,questions and posts.</li>
   <li>Tagging Friends in posts, questions, etc.</li>
-  <li>Adding nice icons for liking, commenting etc.</li>
-  <li>Using ajax to prevent page refresh every time a user likes a post or follow someone</li>
   <li>A better UI aimed at simplifying the application</li>
   <li>Making the face recognition more robust</li>
 </ul>
