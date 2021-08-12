@@ -72,9 +72,15 @@ The motivation for this project was to establish a platform where students could
   
 <br><br>  
  
-![](images/Query.jpg)  
+![](images/Sample.jpg)  
 
-<br><br>    
+<br><br>
+  <li>In addition we have features like -</li>
+  <li>Threaded comments in answer detail</li>
+  <li>TinyMce WYSIWYG editor for question and asnwer editing</li>
+  <li>Search facility for searching questions</li>
+  <li>Filtered lists for your questions</li>
+  
 </ul>
 
 ## Under Development
